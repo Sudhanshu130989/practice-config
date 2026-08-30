@@ -1,0 +1,13 @@
+build:
+  version: "1.0"
+
+accounts:
+
+  message: "Welcome to EazyBank accounts related PROD APIs"
+
+  ContactDetails:
+    name: "Himanshu Hemant -Product Owner"
+    email: "Himanshu@gmail.com"
+  OnCallSupport:
+    -(777)777-4748,
+    -(777)777-3332

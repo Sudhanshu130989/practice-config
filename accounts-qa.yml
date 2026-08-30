@@ -1,0 +1,13 @@
+build:
+  version: "2.0"
+
+accounts:
+
+  message: "Welcome to EazyBank accounts related PROD APIs"
+
+  ContactDetails:
+    name: "Saurav Kumar -QA Lead"
+    email: "saurav@gmail.com"
+  OnCallSupport:
+    -(666)666-3765,
+    -(666)734-8371

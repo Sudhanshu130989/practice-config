@@ -1,0 +1,13 @@
+build:
+  version: "1.0"
+
+loans:
+
+  message: "Welcome to EazyBank Loans related Product APIs"
+
+  ContactDetails:
+    name: "Sachin Kumar -Product Owner"
+    email: "Sachin@gmail.com"
+  OnCallSupport:
+    -(999)999-1001,
+    -(999)999-1002
