@@ -3,7 +3,7 @@ build:
 
 accounts:
 
-  message: "Welcome to EazyBank accounts related Production APIs"
+  message: "Welcome to EazyBank accounts related PROD APIs"
 
   ContactDetails:
     name: "Himanshu Hemant -Product Owner"
